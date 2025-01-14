@@ -25,11 +25,12 @@ src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=f
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" /></a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwindcss" /></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" /></a>&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>&nbsp;
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" /></a>&nbsp;
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" /></a>&nbsp;
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=appwrite" /></a>&nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman"/></a>&nbsp;
 </p>
 
 ### Socials
