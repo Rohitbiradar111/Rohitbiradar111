@@ -31,6 +31,8 @@ src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=f
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" /></a>&nbsp;
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=appwrite" /></a>&nbsp;
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman"/></a>&nbsp;
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify"/></a>&nbsp;
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel"/></a>&nbsp;
 </p>
 
 ### Socials
