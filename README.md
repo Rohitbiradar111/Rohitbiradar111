@@ -4,14 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ---------------------------
 
-Exploring different technologies
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [work.rohitbiradar@gmail.com](mailto:work.rohitbiradar@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/Rohitbiradar111" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=for-the-badge&color=DE3163&labelColor=1c1917" height="35"/></a>
 
 ## Skills
 <p align="center">
@@ -58,5 +57,4 @@ src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=f
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Rohitbiradar111"><img src="https://github-readme-stats.vercel.app/api?username=Rohitbiradar111&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rohitbiradar111's GitHub stats" /></a>
-
-<a href="https://github.com/Rohitbiradar111" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitbiradar111&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Rohitbiradar111"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitbiradar111&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
