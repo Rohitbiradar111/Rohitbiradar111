@@ -47,7 +47,7 @@ src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=f
 
 <p align="left"> 
   <a href="https://www.github.com/Rohitbiradar111" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> 
-  </a> 
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/rohitbiradar1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> 
   </a>
 </p>
@@ -56,5 +56,5 @@ src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rohitbiradar111"><img src="https://github-readme-stats.vercel.app/api?username=Rohitbiradar111&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rohitbiradar111's GitHub stats" /></a>
 <a href="https://github.com/Rohitbiradar111"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitbiradar111&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Rohitbiradar111"><img src="https://github-readme-stats.vercel.app/api?username=Rohitbiradar111&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rohitbiradar111's GitHub stats" /></a>
