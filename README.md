@@ -1,46 +1,49 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Biradar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is Rohit Biradar
 =====================================================================================================================================
 
-Frontend Developer
----------------------------
+## I am a Frontend Developer
 
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [work.rohitbiradar@gmail.com](mailto:work.rohitbiradar@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
-
-<a href="https://www.github.com/Rohitbiradar111" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Rohitbiradar111?logo=github&style=for-the-badge&color=DE3163&labelColor=1c1917" height="35"/></a>
+* 🌍 I'm based in Hyderabad, Telangana, India.
+* 🖥️ See my portfolio at [rohitbiradar111.github.io](https://rohitbiradar111.github.io/)
+* ✉️ You can contact me at [work.rohitbiradar@gmail.com](mailto:work.rohitbiradar@gmail.com)
+* 🤝 I'm open to collaborating on interesting projects.
 
 ## Skills
+
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a><br><b>Git</b></td>
       <td align="center"><a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a><br><b>Java</b></td>
       <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a><br><b>JavaScript</b></td>
+      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a><br><b>HTML5</b></td>
+      <td align="center"><a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a><br><b>CSS3</b></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" /></a><br><b>SASS</b></td>
+      <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts"/></a><br><b>TypeScript</b></td>
+      <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a><br><b>Git</b></td>
       <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a><br><b>VS Code</b></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a><br><b>HTML5</b></td>
+      <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a><br><b>Postman</b></td>
+      <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma"/></a><br><b>Figma</b></td>
       <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a><br><b>React</b></td>
-      <td align="center"><a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a><br><b>CSS3</b></td>
-      <td align="center"><a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" /></a><br><b>SASS</b></td>
+      <td align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" /></a><br><b>Redux</b></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a><br><b>Tailwind</b></td>
-      <td align="center"><a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a><br><b>Bootstrap</b></td>
-      <td align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" /></a><br><b>Redux</b></td>
       <td align="center"><a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a><br><b>Vite</b></td>
+      <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs"/></a><br><b>Next.js</b></td>
+      <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a><br><b>TailwindCSS</b></td>
+      <td align="center"><a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a><br><b>Bootstrap</b></td>
     </tr>
     <tr>
       <td align="center"><a href="https://appwrite.io/" target="_blank"><img src="https://skillicons.dev/icons?i=appwrite" /></a><br><b>Appwrite</b></td>
-      <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a><br><b>Postman</b></td>
       <td align="center"><a href="https://www.netlify.com/" target="_blank"><img src="https://skillicons.dev/icons?i=netlify" /></a><br><b>Netlify</b></td>
       <td align="center"><a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" /></a><br><b>Vercel</b></td>
     </tr>
   </table>
 </p>
+
 
 
 ## Socials
